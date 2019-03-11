@@ -14,3 +14,5 @@ Password: bbnt
 
 login.java file has to run inorder for the code to work.
 used phpMyAdmin, please import the mySQL library into netbeans.
+
+used XAMP and netbeans for this mini project
